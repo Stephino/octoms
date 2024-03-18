@@ -8,7 +8,7 @@
 
 A small, self-documenting PHP framework
 
-Project [created in 2011](https://code.google.com/archive/p/octoms/) and ported to GitHub in 2021.
+Project created in 2011 and ported to GitHub in 2021.
 
 ## Getting started
 
